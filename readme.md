@@ -1,6 +1,30 @@
-Vas a este link: https://latexbase.com 
+escenas y sus scripts: 
 
-Y copias el resumen.tex en la linea de comando de la izquierda, se te va generar un pdf a la derecha, sin tildes porque mañana se los agregó con algunos últimos detalles.
-Tambien mañana te dejo el documento en formato pdf. Pero el resumen ya está prácticamente listo.
+Main menu:
 
-Que tengas buena noche!
+mainManu.cs
+
+CreateMultiplayerUser:
+
+empty object with playfabLogin.cs
+empty object with scenecontroller.cs
+
+Loading:
+
+empty object with ConectToServer.cs
+
+Lobby:
+
+Empty object with CreateAndJoinRooms.cs
+it is needed to implement createInput button name and joinInput button name to run properly the script
+
+Level1:
+
+Empty object with spawn players.cs with playprefab incorporated in script values.
+
+Resources folder ----> Player:
+
+Photon view script.
+Player script.
+Photon transform view classic script.
+
